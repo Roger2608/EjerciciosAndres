@@ -32,4 +32,9 @@ public class Ejercicio4 {
         System.out.println("El promedio es: " + promedio);
     }
     
+    if(promedio>=11){
+            System.out.println("Aprobado");
+        }else{
+            System.out.println("Desaprobado");
+        }
 }
